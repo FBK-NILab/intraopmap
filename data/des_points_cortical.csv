@@ -123,7 +123,7 @@ speech_arrest,DOKACIPR,-51,0,20
 speech_arrest,DOKACIPR,-52,5,3
 speech_arrest,DOUCJEAN,-58,-5,48
 speech_arrest,DUCHDEAC,49,6,5
-speech_arrest,DUCOTHOM,)47,-4,56
+speech_arrest,DUCOTHOM,47,-4,56
 speech_arrest,DUGUANNE,-46,27,19
 speech_arrest,DUGUANNE,-47,21,25
 speech_arrest,DUNEMART,-56,22,60
@@ -178,7 +178,6 @@ speech_arrest,JOSSFRED,-42,-1,51
 speech_arrest,JULISONI,39,-8,41
 speech_arrest,JULLELOI,59,-2,-21
 speech_arrest,JULLELOI,61,-13,-7
-speech_arrest,KAGKNIKO,45,11,38
 speech_arrest,KLEIJOHA,54,-9,87
 speech_arrest,KRAMNASS,57,-5,13
 speech_arrest,KRAMNASS,56,-3,8
@@ -1125,7 +1124,6 @@ movement_arrest,JULISONI,39,-8,41
 movement_arrest,JULLELOI,59,-2,-21
 movement_arrest,JULLELOI,61,-13,-7
 movement_arrest,JULLSAMU,52,-21,29
-movement_arrest,KAGKNIKO,45,11,38
 movement_arrest,KEZEDEAM,27,-16,112
 movement_arrest,KEZEDEAM,39,-7,103
 movement_arrest,KLEIJOHA,54,-9,87
@@ -1370,7 +1368,6 @@ face_movement,JULLELOI,60,-2,-9
 face_movement,JULLSAMU,57,-18,22
 face_movement,JULLSAMU,60,-14,15
 face_movement,JULLSAMU,63,-15,7
-face_movement,KAGKNIKO,44,0,44
 face_movement,KLEIJOHA,49,-23,105
 face_movement,KRAMNASS,56,-9,22
 face_movement,KUSTNILS,50,4,35
@@ -1517,7 +1514,7 @@ sensorial,GUINJEAN,-53,-43,52
 sensorial,GUINJEAN,-34,-67,59
 sensorial,HEIZAMAN,-32,-34,81
 sensorial,HEIZAMAN,-28,-40,85
-sensorial,IVERHELE,44,-4,63)
+sensorial,IVERHELE,44,-4,63
 sensorial,IVERHELE,45,-13,57
 sensorial,JULLSAMU,51,-32,31
 sensorial,KLEIJOHA,59,-26,87
