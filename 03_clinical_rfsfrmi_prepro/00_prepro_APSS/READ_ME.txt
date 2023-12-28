@@ -1,0 +1,26 @@
+NOTE: BIDS like folders structure is expected
+NOTE: make sure t1 and EPi are oriented the same way
+
+Tested script order
+
+bash rsfmri_preprocess_01_remove_first_n_volumes.sh
+bash rsfmri_preprocess_02_despike.sh
+bash rsfmri_preprocess_03_slice_timing.sh
+bash rsfmri_preprocess_04_motion_correct.sh
+bash rsfmri_preprocess_05_skull_stripping_v2.sh
+bash t1_preprocess_01_bias_field_correction.sh
+bash t1_preprocess_02_skull_strip_auto.sh
+bash t1_preprocess_03_segment_auto.sh
+bash t1_preprocess_04_register_linear_flirt.sh
+bash rsfmri_preprocess_06_epi_to_t1_registration.sh
+bash rsfmri_preprocess_07_compute_fd.sh
+python3 rsfmri_preprocess_08_create_afni_censor_file.py
+bash rsfmri_preprocess_09_prepare_regressors.sh
+bash rsfmri_preprocess_10_regress_nuisance.sh
+bash rsfmri_preprocess_11_register_to_mni.sh
+bash rsfmri_preprocess_12_smooth.sh
+bash rsfmri_preprocess_13_check_reg_to_mni.sh
+echo "I am done"
+
+
+
